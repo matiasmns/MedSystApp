@@ -1,4 +1,8 @@
 I have developed a CRUD system (Create, Read, Update, and Delete) for the registration and management of medical patients. This system is designed to facilitate the efficient and secure administration of patient data.
+<video src='https://www.youtube.com/watch?v=eJRx9dHQZsw&ab_channel=MatiasMNS' width=180/>
+
+
+![image](https://github.com/user-attachments/assets/a1b84e1f-702c-4454-8d53-183393837cea)
 
 https://www.youtube.com/watch?v=eJRx9dHQZsw&ab_channel=MatiasMNS
 
