@@ -1,8 +1,6 @@
 I have developed a CRUD system (Create, Read, Update, and Delete) for the registration and management of medical patients. This system is designed to facilitate the efficient and secure administration of patient data.
 
-[GitHub Repo]
-https://github.com/matiasmns/MedSystApp/
-
+https://www.youtube.com/watch?v=eJRx9dHQZsw&ab_channel=MatiasMNS
 
 
 Technologies used:
