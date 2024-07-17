@@ -1,3 +1,8 @@
+MedSyst Crud WebApp
+
+-Drop the folder in the xampp\htdocs
+-XAMP Control:Start the apache and mysql
+
 I have developed a CRUD system (Create, Read, Update, and Delete) for the registration and management of medical patients. This system is designed to facilitate the efficient and secure administration of patient data.
 <video src='https://www.youtube.com/watch?v=eJRx9dHQZsw&ab_channel=MatiasMNS' width=180/>
 
